@@ -70,44 +70,5 @@ I am an aspiring Data Scientist currently in my 4th year of an Integrated MSc Da
 **Email:** aswinchulliyil@gmail.com  
 **Phone:** +91 9747952833  
 
-Portfolio features include one-click icons/buttons linking to:
 
-- LinkedIn  
-- GitHub  
-- Kaggle  
-- Gmail (mailto)  
-- Optional: WhatsApp / Call link
 
-Also includes:
-
-- **Download Resume** button  
-- **Contact Form**
-
----
-
-## 🎨 Portfolio Style
-
-- Minimal and clean
-- Recruiter-friendly
-- Simple typography
-- No unnecessary decoration
-- Proper whitespace and spacing
-- Subtle accent colors (blue or purple)
-
----
-
-## 🚀 Deployment Compatibility
-
-Designed to work on:
-
-- **GitHub Pages**
-- **Netlify**
-- **Vercel**
-
----
-
-## 📌 Purpose
-
-This portfolio is created for showcasing academic work, technical projects, and skills to recruiters, collaborators, and internship opportunities.
-
----
