@@ -1,6 +1,6 @@
 # Aswin C — Portfolio
 
-This repository contains the source for my personal portfolio website. It showcases my projects, skills, certifications, and academic background as an Integrated MSc Data Science student.
+This repository contains the source for my personal portfolio website. It showcases my projects, skills, certifications, and academic background as an Integrated MSc Data Science student
 
 ---
 
